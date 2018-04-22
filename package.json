@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/radarthreat/bing_automation/issues"
   },
-  "homepage": "https://github.com/radarthreat/bing_automation#readme"
+  "homepage": "https://github.com/radarthreat/bing_automation#readme",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
 }
